@@ -1,0 +1,10 @@
+W50 1.2 mm
+Lfeed 5.6 mm
+WZ 1.55 mm
+LZ 53.75 mm
+WZT 2.7 mm
+LZT 52.25 mm
+Set (C/sqrt(2))+(WZT-WZ)/2
+C 0.5*(sqrt(2*sqrt(2)*((ResL)^2)+4*((ResL)^2)-(WZT^2)+2*WZT*WZ-(WZ^2))-sqrt(2)*WZT-WZT+sqrt(2)*WZ+WZ)
+ResL 3.1 mm
+ResW 1.6 mm

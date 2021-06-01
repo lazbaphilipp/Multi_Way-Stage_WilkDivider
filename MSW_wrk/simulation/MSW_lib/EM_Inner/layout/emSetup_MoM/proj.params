@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parameters>
+    <parameter name="W50" value="1.2 mm"/>
+    <parameter name="Lfeed" value="5.6 mm"/>
+    <parameter name="WZ" value="1.55 mm"/>
+    <parameter name="LZ" value="53.75 mm"/>
+    <parameter name="WZT" value="2.7 mm"/>
+    <parameter name="LZT" value="52.25 mm"/>
+    <parameter name="Set" value="0.00242843"/>
+    <parameter name="C" value="0.00262115"/>
+    <parameter name="ResL" value="3.1 mm"/>
+    <parameter name="ResW" value="1.6 mm"/>
+</parameters>

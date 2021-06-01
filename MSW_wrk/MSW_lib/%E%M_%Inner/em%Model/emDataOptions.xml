@@ -1,0 +1,18 @@
+<emDataViewOptions>
+  <version minor="2" major="1"/>
+  <Options enforcePassivity="DuringExtrapolation" extrapolationMode="Linear" symbolNetlistMode="All pins" portTerminalPinsNetlistMode="Shorted"/>
+  <cellParameters useInterpolation="no">
+    <parameters>
+      <cellParameter name="W50" resolution="0.0001 mm" delta="0.214286 mm"/>
+      <cellParameter name="Lfeed" resolution="0.0001 mm" delta="0.214286 mm"/>
+      <cellParameter name="WZ" resolution="0.0001 mm" delta="0.214286 mm"/>
+      <cellParameter name="LZ" resolution="0.0001 mm" delta="0.214286 mm"/>
+      <cellParameter name="WZT" resolution="0.0001 mm" delta="0.214286 mm"/>
+      <cellParameter name="LZT" resolution="0.0001 mm" delta="0.214286 mm"/>
+      <cellParameter name="Set" resolution="0.0001 mm" delta="0.214286 mm"/>
+      <cellParameter name="C" resolution="0.0001 mm" delta="0.214286 mm"/>
+      <cellParameter name="ResL" resolution="0.0001 mm" delta="0.214286 mm"/>
+      <cellParameter name="ResW" resolution="0.0001 mm" delta="0.214286 mm"/>
+    </parameters>
+  </cellParameters>
+</emDataViewOptions>

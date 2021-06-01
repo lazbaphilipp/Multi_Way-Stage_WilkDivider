@@ -1,0 +1,5 @@
+jobName=EmPpMsgs
+jobType=emprep
+designName=MSW_lib:EM_Inner:layout_hpeesofsim
+ruleFilePath=
+addInfo="EM preprocessor messages displayed as DRC errors"

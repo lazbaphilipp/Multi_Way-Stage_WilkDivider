@@ -1,0 +1,33 @@
+Momentum Server logfile: momServer.log
+
+EM Model generation from "MSW_lib:EM_Inner:emModel"
+  parameterNames = list("W50","Lfeed","WZ","LZ","WZT","LZT","Set","C","ResL","ResW","Substrate","MeshDensity")
+  parameterValues = list("0.0012","0.0056","0.00155","0.05","0.0025","0.05","0.0025084","0.0028756","0.0031","0.0016","definedInState","20")
+  topLevel design name = "MSW_lib:EM_analysys:schematic"
+  instance name = "X1.em_data"
+  processID = "56351@127.0.0.1:hpeesofsim:_unique55136_10"
+  visible = TRUE
+Connected to external process by processID
+..handle = 19
+..pid = 56351@127.0.0.1:hpeesofsim:_unique55136_10
+..name = hpeesofsim
+Creating work design MSW_lib:EM_Inner:layout_hpeesofsim
+..new work design opened
+..inserting instance of MSW_lib:EM_Inner:layout
+..promoting instance pins and ports
+Successfully created the work design
+Successfully created the associated schematic of the work design
+Starting EM simulation for design: MSW_lib:EM_Inner:layout_hpeesofsim
+  Contains instance of : MSW_lib:EM_Inner:layout
+  EM setup view name   : emSetup_hpeesofsim
+  EM model design name   : MSW_lib:EM_Inner:emModel
+..disable simulation log popup
+..simulation M210601213435 started
+..simulation M210601213435 ended
+EM simulation finished successfully
+..adding new data to EM model view: Success Added simulation data.
+..deleting layout_hpeesofsim view for work design
+..deleting schematic_hpeesofsim view for work design
+..deleting emSetup_hpeesofsim view for work design
+..deleting simulation directory for work design
+..sending DONE to parent

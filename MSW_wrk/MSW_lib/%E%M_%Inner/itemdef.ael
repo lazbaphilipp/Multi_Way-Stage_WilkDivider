@@ -1,0 +1,11 @@
+create_item("EM_Inner","EM_Inner","X",16,-1,NULL,"Component Parameters",NULL,"%43?global %;%d:%t %# %44?0%:%31?%C%:_net%c%;%;%e %b%r%8?%29?%:%30?%p %:%k%?[%1i]%;=%p %;%;%;%e%e","EM_Inner","%t%b%r%38?%:\n%30?%s%:%k%?[%1i]%;=%s%;%;%e%e%;","",3,NULL,0,
+create_parm("W50","W50",68608,"StdFormSet",5,prm("StdForm","1.2 mm")),
+create_parm("Lfeed","Lfeed",68608,"StdFormSet",5,prm("StdForm","5.6 mm")),
+create_parm("WZ","WZ",68608,"StdFormSet",5,prm("StdForm","1.55 mm")),
+create_parm("LZ","LZ",68608,"StdFormSet",5,prm("StdForm","53.75 mm")),
+create_parm("WZT","WZT",68608,"StdFormSet",5,prm("StdForm","2.7 mm")),
+create_parm("LZT","LZT",68608,"StdFormSet",5,prm("StdForm","52.25 mm")),
+create_parm("Set","Set",68608,"StdFormSet",5,prm("StdForm","(C/sqrt(2))+(WZT-WZ)/2")),
+create_parm("C","C",68608,"StdFormSet",5,prm("StdForm","0.5*(sqrt(2*sqrt(2)*((ResL)^2)+4*((ResL)^2)-(WZT^2)+2*WZT*WZ-(WZ^2))-sqrt(2)*WZT-WZT+sqrt(2)*WZ+WZ)")),
+create_parm("ResL","ResL",68608,"StdFormSet",5,prm("StdForm","3.1 mm")),
+create_parm("ResW","ResW",68608,"StdFormSet",5,prm("StdForm","1.6 mm")));

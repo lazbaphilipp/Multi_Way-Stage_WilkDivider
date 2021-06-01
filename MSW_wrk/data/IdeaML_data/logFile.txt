@@ -1,0 +1,41 @@
+
+hpeesofsim (*) 511.update1.0 Nov 21 2019, MINT version 5
+    (64-bit windows built: Fri Nov 22, 2019 03:45:24 +0000)
+
+
+SP SP1[1] <MSW_lib:IdeaML:schematic>   freq=(0 Hz->9 GHz)
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.001550) < MinRecommendValue(0.000203) OR UserValue > MaxRecommendValue(0.001270) for 'W1' in `Cros3'
+
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.001600) < MinRecommendValue(0.000203) OR UserValue > MaxRecommendValue(0.001270) for 'W2' in `Cros3'
+
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.001600) < MinRecommendValue(0.000203) OR UserValue > MaxRecommendValue(0.001270) for 'W4' in `Cros3'
+
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.001550) < MinRecommendValue(0.000203) OR UserValue > MaxRecommendValue(0.001270) for 'W1' in `Cros2'
+
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.001600) < MinRecommendValue(0.000203) OR UserValue > MaxRecommendValue(0.001270) for 'W2' in `Cros2'
+
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.001550) < MinRecommendValue(0.000203) OR UserValue > MaxRecommendValue(0.001270) for 'W3' in `Cros2'
+
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.001600) < MinRecommendValue(0.000203) OR UserValue > MaxRecommendValue(0.001270) for 'W4' in `Cros2'
+
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.002700) < MinRecommendValue(0.000203) OR UserValue > MaxRecommendValue(0.001270) for 'W1' in `Cros1'
+
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.001550) < MinRecommendValue(0.000203) OR UserValue > MaxRecommendValue(0.001270) for 'W2' in `Cros1'
+
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.001550) < MinRecommendValue(0.000203) OR UserValue > MaxRecommendValue(0.001270) for 'W3' in `Cros1'
+
+
+
+Resource usage:
+  Total stopwatch time     =     0.53 seconds.
+
